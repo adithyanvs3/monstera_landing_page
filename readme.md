@@ -1,5 +1,7 @@
 # 🌿 MONSTERA - Plant Store Landing Page
 
+[live@](https://monstera-landing-page-wheat.vercel.app/)
+
 A sleek and minimal **plant store landing page** built using **HTML**, **Tailwind CSS**, and **Font Awesome**.  
 This responsive page highlights elegant typography, subtle hover effects, and clean layout design to create a modern e-commerce interface.
 
